@@ -48,8 +48,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <None Include="Day1-Puzzle1.fsx" />
+    <None Include="Day1-Puzzle2.fsx" />
     <None Include="App.config" />
+    <None Include="Day1-Puzzle1.fsx" />
+    <None Include="Day2-Puzzle1.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
