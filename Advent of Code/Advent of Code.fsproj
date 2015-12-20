@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <None Include="Day2-Puzzle2.fsx" />
     <None Include="Day1-Puzzle2.fsx" />
     <None Include="App.config" />
     <None Include="Day1-Puzzle1.fsx" />
