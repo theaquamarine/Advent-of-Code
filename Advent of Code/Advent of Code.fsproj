@@ -53,6 +53,15 @@
     <None Include="App.config" />
     <None Include="Day1-Puzzle1.fsx" />
     <None Include="Day2-Puzzle1.fsx" />
+    <None Include="Day3-Puzzle1.fsx" />
+    <None Include="Day3-Puzzle2.fsx" />
+    <None Include="Day4-Puzzle1.fsx" />
+    <None Include="Day4-Puzzle2.fsx" />
+    <None Include="Day5-Puzzle1.fsx" />
+    <None Include="Day5-Puzzle2.fsx" />
+    <None Include="Day6-Puzzle1.fsx" />
+    <None Include="Day6-Puzzle2.fsx" />
+    <None Include="Day7-Puzzle1.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
